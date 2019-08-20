@@ -1,0 +1,16 @@
+{
+  "profile": {
+    "firstName": "John",
+    "lastName": "Smith",
+    "favIceCreamFlavor":"Chocolate",
+    "email": "johns@{{email-suffix}}",
+    "login": "johns@{{email-suffix}}"
+  },
+  "credentials": {
+    "password" : { "value": "Tra!nme1234" },
+    "recovery_question": {
+      "question": "What’s the best food?",
+      "answer": "Chicken Soup"
+    }
+  }
+}
