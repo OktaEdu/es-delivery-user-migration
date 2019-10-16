@@ -1,0 +1,12 @@
+{
+	"credentials": {
+		  "password" : {
+			  "hash": {
+				"algorithm": "SHA-256",
+				"salt": "asdfjkl;",
+				"saltOrder": "PREFIX",
+			"value": "/JYVbxIKSLEDRrIk4JPxZ6B7G2XCPgOD940Cfi4Pw+Q"
+			 }
+		}
+	}
+}

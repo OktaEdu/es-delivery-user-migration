@@ -1,0 +1,6 @@
+{
+  "profile": {
+    "name": "IT - West",
+    "description": "For IT Users in the West Coast"
+  }
+}
