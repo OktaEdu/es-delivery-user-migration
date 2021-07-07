@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "9f60dabf-f3be-4b94-95ae-0ec5e6607497",
-		"name": "API as a Master",
+		"name": "API as a Source",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
