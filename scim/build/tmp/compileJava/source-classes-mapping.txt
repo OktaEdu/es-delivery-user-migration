@@ -1,0 +1,69 @@
+com/oktaice/scim/model/scim/ScimUser.java
+ com.oktaice.scim.model.scim.ScimUser
+ com.oktaice.scim.model.scim.ScimUser$Email
+ com.oktaice.scim.model.scim.ScimUser$Group
+ com.oktaice.scim.model.scim.ScimUser$Name
+com/oktaice/scim/model/scim/ScimOktaIceUser.java
+ com.oktaice.scim.model.scim.ScimOktaIceUser
+ com.oktaice.scim.model.scim.ScimOktaIceUser$OktaIceAttributes
+com/oktaice/scim/model/scim/support/ScimPageFilter.java
+ com.oktaice.scim.model.scim.support.ScimPageFilter
+com/oktaice/scim/service/ScimService.java
+ com.oktaice.scim.service.ScimService
+com/oktaice/scim/repository/GroupRepository.java
+ com.oktaice.scim.repository.GroupRepository
+com/oktaice/scim/model/scim/ScimPatchOp.java
+ com.oktaice.scim.model.scim.ScimPatchOp
+com/oktaice/scim/model/User.java
+ com.oktaice.scim.model.User
+com/oktaice/scim/repository/UserRepository.java
+ com.oktaice.scim.repository.UserRepository
+com/oktaice/scim/controller/api/scim/ScimUserCompleteController.java
+ com.oktaice.scim.controller.api.scim.ScimUserCompleteController
+com/oktaice/scim/controller/api/scim/ScimGroupCompleteController.java
+ com.oktaice.scim.controller.api.scim.ScimGroupCompleteController
+com/oktaice/scim/utils/JsonUtil.java
+ com.oktaice.scim.utils.JsonUtil
+com/oktaice/scim/model/scim/ScimEnterpriseUser.java
+ com.oktaice.scim.model.scim.ScimEnterpriseUser
+ com.oktaice.scim.model.scim.ScimEnterpriseUser$EnterpriseAttributes
+com/oktaice/scim/model/scim/ScimGroup.java
+ com.oktaice.scim.model.scim.ScimGroup
+ com.oktaice.scim.model.scim.ScimGroup$Member
+com/oktaice/scim/controller/api/scim/ScimUserController.java
+ com.oktaice.scim.controller.api.scim.ScimUserController
+com/oktaice/scim/model/scim/ScimUserPatchOp.java
+ com.oktaice.scim.model.scim.ScimUserPatchOp
+ com.oktaice.scim.model.scim.ScimUserPatchOp$Operation
+ com.oktaice.scim.model.scim.ScimUserPatchOp$Operation$Value
+com/oktaice/scim/model/scim/ScimGroupPatchOp.java
+ com.oktaice.scim.model.scim.ScimGroupPatchOp
+ com.oktaice.scim.model.scim.ScimGroupPatchOp$Operation
+ com.oktaice.scim.model.scim.ScimGroupPatchOp$Operation$1
+ com.oktaice.scim.model.scim.ScimGroupPatchOp$Operation$GroupValue
+ com.oktaice.scim.model.scim.ScimGroupPatchOp$Operation$MemberValue
+com/oktaice/scim/model/Group.java
+ com.oktaice.scim.model.Group
+com/oktaice/scim/controller/api/scim/ScimBaseController.java
+ com.oktaice.scim.controller.api.scim.ScimBaseController
+com/oktaice/scim/model/scim/support/ScimUserDeserializer.java
+ com.oktaice.scim.model.scim.support.ScimUserDeserializer
+com/oktaice/scim/ScimServerApplication.java
+ com.oktaice.scim.ScimServerApplication
+com/oktaice/scim/service/ScimServiceImpl.java
+ com.oktaice.scim.service.ScimServiceImpl
+com/oktaice/scim/controller/api/JsonUserController.java
+ com.oktaice.scim.controller.api.JsonUserController
+com/oktaice/scim/model/scim/ScimResource.java
+ com.oktaice.scim.model.scim.ScimResource
+ com.oktaice.scim.model.scim.ScimResource$Meta
+com/oktaice/scim/model/scim/ScimExceptionResponse.java
+ com.oktaice.scim.model.scim.ScimExceptionResponse
+com/oktaice/scim/controller/ui/AdminController.java
+ com.oktaice.scim.controller.ui.AdminController
+com/oktaice/scim/controller/api/scim/ScimGroupController.java
+ com.oktaice.scim.controller.api.scim.ScimGroupController
+com/oktaice/scim/controller/api/JsonGroupController.java
+ com.oktaice.scim.controller.api.JsonGroupController
+com/oktaice/scim/model/scim/ScimListResponse.java
+ com.oktaice.scim.model.scim.ScimListResponse
