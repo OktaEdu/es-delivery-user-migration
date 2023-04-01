@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.oktaice.scim.ScimUserTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-03-31T09:16:53" hostname="C02FM725ML85" time="0.091">
+<testsuite name="com.oktaice.scim.ScimUserTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-04-01T07:41:20" hostname="C02FM725ML85" time="0.108">
   <properties/>
-  <testcase name="userToJsonTest" classname="com.oktaice.scim.ScimUserTest" time="0.047"/>
-  <testcase name="JsonToEnterpriseUserTest" classname="com.oktaice.scim.ScimUserTest" time="0.03"/>
-  <testcase name="JsonToOktaIceUserTest" classname="com.oktaice.scim.ScimUserTest" time="0.005"/>
+  <testcase name="userToJsonTest" classname="com.oktaice.scim.ScimUserTest" time="0.062"/>
+  <testcase name="JsonToEnterpriseUserTest" classname="com.oktaice.scim.ScimUserTest" time="0.029"/>
+  <testcase name="JsonToOktaIceUserTest" classname="com.oktaice.scim.ScimUserTest" time="0.008"/>
   <testcase name="oktaIceUserToJsonTest" classname="com.oktaice.scim.ScimUserTest" time="0.003"/>
   <testcase name="JsonToUserTest" classname="com.oktaice.scim.ScimUserTest" time="0.003"/>
-  <testcase name="enterpriseUserToJsonTest" classname="com.oktaice.scim.ScimUserTest" time="0.002"/>
+  <testcase name="enterpriseUserToJsonTest" classname="com.oktaice.scim.ScimUserTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
