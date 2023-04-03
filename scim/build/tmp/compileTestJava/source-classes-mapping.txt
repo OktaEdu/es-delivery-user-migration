@@ -1,4 +1,0 @@
-com/oktaice/scim/ScimUserTest.java
- com.oktaice.scim.ScimUserTest
-com/oktaice/scim/ScimServerApplicationTests.java
- com.oktaice.scim.ScimServerApplicationTests
